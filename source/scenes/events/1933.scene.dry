@@ -1,5 +1,5 @@
 title: 1933
-subtitle: The end of the crisis?
+subtitle: La fine della crisi?
 tags: event
 priority: -3
 view-if: (year = 1933 and month >= 12) or year >= 1934
@@ -30,8 +30,8 @@ if (!Q.economic_plan) {
 
 !}
 
-It is the end of 1933, and the NSDAP still has not taken power. It appears that we have already passed the worst of the years of crisis. We are turning the corner on the Great Depression, and Nazism's days are numbered.
+ Siamo al termine del 1933 e l'NSDAP non è salito al governo. Sembra che gli anni peggiori della crisi siano passati. Stiamo uscendo dal tunnel della Grande Depressione e il nazismo ha i giorni contati.
 
-Perhaps Germany will finally enter into a new era of genuine peace...
+Forse la Germania entrerà finalmente in una nuova era di vera pace...
 
 - @game_over: Game over.
