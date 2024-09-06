@@ -1,8 +1,8 @@
 
-# faction strength
+# forza delle fazioni
 
-(0..10) debole
-(10..25) moderata
-(25..40) forte
-(40..60) molto forte
-(60..) dominante
+(0..10) Debole
+(10..25) Moderata
+(25..40) Forte
+(40..60) Molto forte
+(60..) Dominante
