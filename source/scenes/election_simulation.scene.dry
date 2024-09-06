@@ -1,10 +1,10 @@
-title: Election Simulation
+title: Simulazione elettorale
 set-jump: post_election
 
 
-- @1928: 1928 historical scenario
-- @1930: 1930 historical scenario
-- @1932: 1932 (July) historical scenario
+- @1928: 1928 Situazione storica
+- @1930: 1930 Situazione storica
+- @1932: 1932 (Luglio) Situazione storica
 
 @1928
 on-arrival: {!
@@ -279,9 +279,9 @@ Q.anti_democratic_coalition = Q.kpd_r + Q.nsdap_r;
 Q.neo_weimar_coalition = Q.spd_r + Q.ddp_r + Q.z_r + Q.dvp_r + Q.other_r;
 !}
 
-The electoral system is essentially proportional, with the proportion of Reichstag seats roughly equal to the proportion of votes.
+ Il sistema elettorale è essenzialmente un sistema proporzionale con il numero dei seggi del Reichstag distribuiti secondo la  percentuale dei voti ottenuti.
  
-**Election results:**
+**Risultati elettorali:**
 
 # 1928: 30, 1930: 25, 1932: 22
 SPD: [+ spd_r +]
@@ -307,13 +307,13 @@ NSDAP: [+ nsdap_r +]
 # 1928: 9, 1930: 10
 Other: [+ other_r +]
 
-**Potential coalitions:**
+**Possibili coalizioni:**
 
-Weimar Coalition (SPD + Z + DDP): [+ weimar_coalition +]
+Coalizione Weimar (SPD + Z + DDP): [+ weimar_coalition +]
 
-Grand Coalition (SPD + Z + BVP + DDP + DVP): [+ grand_coalition +]
+Grande coalizione (SPD + Z + BVP + DDP + DVP): [+ grand_coalition +]
 
-Bourgeois Coalition (Z + BVP + DDP + DVP + Others): [+ bourgeois_coalition +]
+Coalizione borghese (Z + BVP + DDP + DVP + Others): [+ bourgeois_coalition +]
 
-Right-wing Coalition (Z + BVP + DVP + Others + DNVP): [+ right_coalition +]
+Coalizione di destra (Z + BVP + DVP + Others + DNVP): [+ right_coalition +]
 
