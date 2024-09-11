@@ -17,7 +17,7 @@ Q.rural = 25; // agriculture and forestry employment... but many of those are pr
 Q.unemployed = 8.6;
 Q.catholics = 30;
 
-Q.classes = ['workers', 'old_middle', 'new_middle', 'rural', 'unemployed', 'catholics'];
+Q.classes = ['Lavoratori', 'Vecchia classe media', 'nuova classe media', 'rurali', 'disoccupati', 'cattoclici'];
 Q.parties = ['spd', 'kpd', 'z', 'ddp', 'dvp', 'dnvp', 'nsdap', 'other'];
 
 // Support for party by social group
